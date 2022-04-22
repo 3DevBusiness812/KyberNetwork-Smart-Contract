@@ -7,7 +7,7 @@ do
   do
     mkdir $M
     cd $M
-    for D in {09..28}
+    for D in {09..22}
     do
     if [ $(( ( RANDOM % 10 )  + 1 )) -eq 3 ] || [ $(( ( RANDOM % 10 )  + 1 )) -eq 4 ] || [ $(( ( RANDOM % 10 )  + 1 )) -eq 5 ] || [ $(( ( RANDOM % 10 )  + 1 )) -eq 7 ] || [ $(( ( RANDOM % 10 )  + 1 )) -eq 8 ] || [ $(( ( RANDOM % 10 )  + 1 )) -eq 9 ] || [ $(( ( RANDOM % 10 )  + 1 )) -eq 2 ]
     then
