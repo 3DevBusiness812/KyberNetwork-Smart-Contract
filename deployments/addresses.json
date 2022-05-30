@@ -1,0 +1,9 @@
+{
+  "name": "Deployed Contracts",
+  "version": "1.0.0",
+  "timestamp": "2022-02-28T21:30:29.528Z",
+  "chainId": 4,
+  "addresses": {
+    "Keyring": "0x923d8B76E3eC1383858f9848b548E7E66d3118A7"
+  }
+}
